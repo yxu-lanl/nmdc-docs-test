@@ -1,4 +1,4 @@
-# TESTThe NMDC Metadata Standards Documentation
+TESTThe NMDC Metadata Standards Documentation
 # Introduction TESTTESTTEST
 
 This documentation provides details on the National Microbiome Data
