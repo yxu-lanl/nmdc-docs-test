@@ -1,3 +1,4 @@
 sphinx-rtd-theme
 sphinx
+m2r2
 recommonmark
