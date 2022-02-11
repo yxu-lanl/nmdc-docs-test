@@ -1,4 +1,4 @@
-TESTReads QC Workflow (v1.0.2)
+Reads QC Workflow (v1.0.2)MYTEST
 =============================
 
 .. image:: ../../_static/images/1_RQC_rqc_workflow.png
