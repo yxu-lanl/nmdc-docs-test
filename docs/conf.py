@@ -12,6 +12,10 @@
 #
 import os
 import sys
+from recommonmark.parser import CommonMarkParser
+
+source_parsers = {'.md': CommonMarkParser}
+
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 
