@@ -12,9 +12,7 @@ Everything You Always Wanted to Know About Metadata and Ontologies (But
 Were Afraid to Ask)*
 ([<u>https://doi.org/10.25979/1607365</u>](https://doi.org/10.25979/1607365)).
 
-<div align="center">
-	<img src="../images/NMDC_metadata_img1.png" style="width:80%"/>
-</div>
+![image](../../_static/images/NMDC_metadata_img1.png)
 
 Figure 1: Microbiome metadata types: Information that contextualizes
 sample including its geographic location and collection date, sample
