@@ -110,7 +110,7 @@ schema also uses this ecosystem classification to describe sample
 environments.
 
 <div align="center">
-<img src="../images/NMDC_metadata_img2.png" style="width:100%"/>
+<img src="../../_static/images/NMDC_metadata_img2.png" style="width:100%"/>
 </div>
 
 Figure 2. The GOLD five-level ecosystem classification paths
@@ -212,7 +212,7 @@ oligotrophic lake sediment sample below.
 	 <p><strong>env_local_scale (Feature)</strong></p>
 	 <p>Next, we describe the local environmental feature in the vicinity of and likely having a strong causal influence on the sample. Using the <a href="http://www.ontobee.org/ontology/ENVO?iri=http://purl.obolibrary.org/obo/ENVO_01000813"><u>EnvO astronomical body part</u></a> categories, we step through the relevant categories (see figure on the right) until we reach the EnvO term <em>oligotrophic lake</em>.</p></td>
 	<td>
-		<img src="../images/NMDC_metadata_img4.png" style="width:100%" />
+		<img src="../../_static/images/NMDC_metadata_img4.png" style="width:100%" />
 	</td>
 	</tr>
 	<tr class="odd">
