@@ -1,11 +1,2 @@
-sphinx-rtd-theme
-sphinx
 m2r2
-recommonmark
-linkml >= 1.1.9
-jq
-mkdocs
-pandoc
-twine
-build
-wheel
+myst-parser
