@@ -8,7 +8,7 @@ URI: [nmdc:ExternalIdentifier](https://microbiomedata/meta/ExternalIdentifier)
 
 |  |  |  |
 | --- | --- | --- |
-| Parent type | | [Uriorcurie](types/Uriorcurie.md) |
+| Parent type | | [Uriorcurie](Uriorcurie.md) |
 | Root (builtin) type | | **URIorCURIE** |
 | Representation | | str |
 
