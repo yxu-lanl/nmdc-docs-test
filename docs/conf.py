@@ -12,9 +12,6 @@
 #
 import os
 import sys
-from recommonmark.parser import CommonMarkParser
-
-source_parsers = {'.md': CommonMarkParser}
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
@@ -34,7 +31,9 @@ release = '0.1'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['m2r2']
+extensions = ['m2r2', 
+    'sphinx.ext.githubpages',
+    'myst_parser']
 
 # source_suffix = '.rst'
 source_suffix = ['.rst', '.md']
