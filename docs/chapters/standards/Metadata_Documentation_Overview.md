@@ -1,5 +1,5 @@
-TESTThe NMDC Metadata Standards Documentation
-# Introduction TESTTESTTEST
+The NMDC Metadata Standards Documentation
+# Introduction
 
 This documentation provides details on the National Microbiome Data
 Collaborative’s ([<u>NMDC</u>](http://microbiomedata.org)) approach to
@@ -204,7 +204,7 @@ oligotrophic lake sediment sample below.
 		<p>Using <a href="http://www.ontobee.org/ontology/ENVO?iri=http://purl.obolibrary.org/obo/ENVO_00000428"><u>EnvO biome</u></a> categories, <em>aquatic</em> is appropriate. However, since the EnvO is a hierarchical system, the aquatic biome has two sub-categories: freshwater and marine biomes. The freshwater biome is further divided into freshwater lake biome and freshwater river biome. Therefore, for a lake sediment sample, <em>freshwater lake biome</em> is the appropriate EnvO biome category.</p>
 	 </td>
 	 <td>
-		<img src="../images/NMDC_metadata_img3.png" style="width:100%" />
+		<img src="../../_static/images/NMDC_metadata_img3.png" style="width:100%" />
 	 </td>
 	</tr>
 	<tr class="even">
@@ -220,7 +220,7 @@ oligotrophic lake sediment sample below.
 	 <p><strong>env_medium (Material)</strong></p>
 	 <p>Finally, since the sample is <em>oligotrophic lake sediment</em>, the <a href="http://www.ontobee.org/ontology/ENVO?iri=http://purl.obolibrary.org/obo/ENVO_00002007"><u>EnvO environmental material</u></a> could be assigned <em>sediment</em>. But because the EnvO hierarchy provides sub-categories within <em>sediment</em>, the environmenta material will be assigned <em>lake sediment</em>.</p></td>
 	 <td>
-		 <img src="../images/NMDC_metadata_img5.png" style="width:100%" />
+		 <img src="../../_static/images/NMDC_metadata_img5.png" style="width:100%" />
 	 </td>
 	</tr>
  </tbody>
@@ -249,7 +249,7 @@ The NMDC team is currently working on exploring solutions for automated
 mapping between GOLD and MIxS/EnvO.
 
 <div align="center">
-	<img src="../images/NMDC_metadata_img6.png" style="width:80%" />
+	<img src="../../_static/images/NMDC_metadata_img6.png" style="width:80%" />
 </div>
 
 Figure 3: Mapping between the MIxS/EnvO triad and the GOLD ecosystem
