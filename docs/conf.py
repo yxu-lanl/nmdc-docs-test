@@ -31,24 +31,11 @@ release = '0.1'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['m2r2', 
-    'myst_parser']
-
-myst_enable_extensions = [
-    "amsmath",
-    "colon_fence",
-    "deflist",
-    "dollarmath",
-    "fieldlist",
-    "html_admonition",
-    "html_image",
-    "linkify",
-    "replacements",
-    "smartquotes",
-    "strikethrough",
-    "substitution",
-    "tasklist",
+extensions = [
+   ‘recommonmark’,
+   ‘sphinx_markdown_tables’
 ]
+
 
 # source_suffix = '.rst'
 source_suffix = ['.rst', '.md']
