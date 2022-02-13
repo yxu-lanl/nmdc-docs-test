@@ -12,12 +12,13 @@ NMDC
    :maxdepth: 2
    :caption: Standards:
 
-   chapters/standards/schema_index.rst
-   chapters/standards/Metadata_Documentation_Overview.rst 
-   chapters/standards/schema-validation.rst
-   chapters/standards/identifiers.rst
-   chapters/standards/NMDC_MIxS_Soil_documentation.rst
-   chapters/standards/credits.rst  
+   chapters/standards/home.md
+   chapters/standards/index.md
+   chapters/standards/Metadata_Documentation_Overview.md 
+   chapters/standards/schema-validation.md
+   chapters/standards/identifiers.md
+   chapters/standards/NMDC_MIxS_Soil_documentation.md
+   chapters/standards/credits.md  
 
 .. toctree::
    :maxdepth: 2
