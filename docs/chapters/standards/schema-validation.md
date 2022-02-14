@@ -28,7 +28,7 @@ If you are not using this, you should
 
 ## Schema validation
 
-The JSON-Schema for NMDC is maintained in this github repo, under [jsonschema/nmdc.schema.json](../jsonschema/nmdc.schema.json)
+The JSON-Schema for NMDC is maintained in this github repo, under [jsonschema/nmdc.schema.json](jsonschema/nmdc.schema.json)
 
 Note that the JSON-Schema is generated from a higher level YAML
 representation, using a modeling framework called linkML. See the
