@@ -60,4 +60,4 @@ html_title = 'NMDC'
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
-html_logo = "_static/logo-text.svg"
+html_logo = "_static/nmdc-logo.png"
